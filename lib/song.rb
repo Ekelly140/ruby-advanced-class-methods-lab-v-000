@@ -14,7 +14,7 @@ class Song
     song = self.new
     song.name = self 
     @@all << song
-    
+    song
   end 
 
 
